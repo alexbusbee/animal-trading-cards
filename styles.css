@@ -1,0 +1,29 @@
+/* add your CSS here */
+.fact {
+	font-style: italic;
+	margin-top: .5em;
+}
+#container {
+	padding: 1em;
+	border: gray 1px solid;
+	box-shadow: 5px 5px 5px #999;
+}
+#text-container {
+	padding: .5em;
+	border: gray 1px solid;
+	margin-top: .5em;
+}
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+li span {
+	font-weight: bold;
+}
+body {
+	width: 335px;
+}
+h3 {
+	font-size: 200%;
+	margin: 0 0 .5em 0;
+}
